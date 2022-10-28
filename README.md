@@ -1,4 +1,4 @@
-## Bem vindos ao meu Github!
+# Bem vindos ao meu Github!
 
 <!--
 - 💬 Pergunte-me sobre...
@@ -7,7 +7,7 @@
 - ⚡ Fato divertido: ...
 -->
 
-### Como sou.
+## Como sou.
 * Comunicativo
 * Participativo
 * Dinâmico
@@ -24,13 +24,15 @@ E, trabalhando com Tecnologia da Informação, passei pelas mais diversas áreas
 * Desenho de soluções
 * Fluxo de processos (BPM)
 * Fluxo de negócio
+* Excel
+* Power Point
 * SAS
 * Lógica de programação
 * Desenvolvimento de scripts
 * Suporte a redes
 * Suporte a sistema Unix e Linux.
 
-### Como estou.
+## Como estou.
 Após um período sabático para tratar problemas com a minha saúde mental resolvi voltar ao mercado atualizado e, para isso, nada como voltar estudando.
 👩‍💻 Ciência de dados  
 🧮 Power BI  
@@ -40,6 +42,6 @@ Após um período sabático para tratar problemas com a minha saúde mental reso
 🐍 Python  
 💻 Machine Learning.
 
-### Outras mídias
+## Outras mídias
 [Linkedin]( https://www.linkedin.com/in/cyromneto/)  
 [Instagram]( https://www.instagram.com/neto.viking/)
