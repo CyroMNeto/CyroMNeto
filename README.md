@@ -40,6 +40,6 @@ Após um período sabático para tratar problemas com a minha saúde mental reso
 🐍 Python  
 💻 Machine Learning.
 
-Outras mídias
-[Linkedin]( https://www.linkedin.com/in/cyromneto/)
+### Outras mídias
+[Linkedin]( https://www.linkedin.com/in/cyromneto/)  
 [Instagram]( https://www.instagram.com/neto.viking/)
