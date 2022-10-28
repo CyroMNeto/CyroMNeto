@@ -16,6 +16,7 @@
 * Muito Curioso e ávido pelo conhecimento
 * Criativo
 * Articulado
+
 E, trabalhando com Tecnologia da Informação, passei pelas mais diversas áreas, da técnica a de gestão e adquirin os mais variados conhecimentos, tais como:
 * Telecomunicações
 * Coordenação de equipes
@@ -31,12 +32,12 @@ E, trabalhando com Tecnologia da Informação, passei pelas mais diversas áreas
 
 ### Como estou.
 Após um período sabático para tratar problemas com a minha saúde mental resolvi voltar ao mercado atualizado e, para isso, nada como voltar estudando.
-👩‍💻 Ciência de dados
-🧮 Power BI.
-📊 Data Visualization
- 🗄 SQL.
-📅 AWS
-🐍 Python.
+👩‍💻 Ciência de dados  
+🧮 Power BI  
+📊 Data Visualization  
+ 🗄 SQL  
+📅 AWS  
+🐍 Python  
 💻 Machine Learning.
 
 Outras mídias
