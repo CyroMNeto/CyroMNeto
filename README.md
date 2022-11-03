@@ -53,11 +53,11 @@ E, trabalhando com Tecnologia da Informação, passei pelas mais diversas áreas
 ## Como estou.
 Após um período sabático para tratar problemas com a minha saúde mental resolvi voltar ao mercado atualizado e, para isso, nada como voltar estudando.
 <div style="display: inline_block">
-  <img align="center" alt="Neto-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Neto-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python
   <!--img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"-->
-</div>
+</div>          
 👩‍💻 Ciência de dados<br>
 🧮 Power BI<br>
 📊 Data Visualization<br>
