@@ -24,7 +24,7 @@
 - 😄 Pronomes: ...
 - ⚡ Fato divertido: ...
 -->
-
+|Power BI| 
 ## Como sou.
 * Comunicativo
 * Participativo
